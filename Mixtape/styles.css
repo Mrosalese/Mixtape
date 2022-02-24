@@ -1,3 +1,7 @@
+  html{
+    scroll-behavior: smooth;
+  }
+
 body{
   font-family: ariel, sans-serif;
   line-height: 1.3em
@@ -25,7 +29,7 @@ body{
     text-decoration: none;
   }
   img{
-    max-width: 10%;
+    max-width: 20%;
   }
   .header{
     max-width: 70%;
@@ -33,10 +37,14 @@ body{
       margin-right: auto;
       margin-left: auto;
   }
-  .pic{
-    max-width:100%;
+  .wrapper{
+    max-width: 600px;
+        display:block;
+        background-color: red;
+    margin-right:auto;
+    margin-left: auto;
     text-align: center;
   }
-.titles{
-  text-align: center;
-}
+    h2{
+      font-family: georgia, serif;
+    }
