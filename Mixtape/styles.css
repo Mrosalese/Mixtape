@@ -1,0 +1,35 @@
+body{
+  font-family: ariel, sans-serif;
+  line-height: 1.3em
+  }
+  h1{
+    font-family: georgia, serif;
+  }
+  a{
+    color: #deeppink;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #f00;
+    text-decoration:underline;
+  }
+  ol{
+    line-height: 1.6em;
+  }
+  li{
+    border-bottom: 1px solid
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+  a{
+    text-decoration: none;
+  }
+  img{
+    max-width: 10%;
+  }
+  .header{
+    max-width: 70%;
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+  }
