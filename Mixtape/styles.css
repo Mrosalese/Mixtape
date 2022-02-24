@@ -33,3 +33,10 @@ body{
       margin-right: auto;
       margin-left: auto;
   }
+  .pic{
+    max-width:100%;
+    text-align: center;
+  }
+.titles{
+  text-align: center;
+}
