@@ -11,11 +11,11 @@ body{
     text-align: center;
   }
   a{
-    color: #deeppink;
+    color: black;
     text-decoration: none;
   }
   a:hover{
-    color: #f00;
+    color: #ffd700;
     text-decoration:underline;
   }
   ol{
@@ -39,29 +39,17 @@ body{
       margin-left: auto;
   }
   .wrapper{
-    max-width: 600px;
+    max-width: 610px;
         display:block;
-        background-color: red;
+        background-color: #800040;
     margin-right:auto;
     margin-left: auto;
     text-align: center;
   }
     h2{
       font-family: georgia, serif;
+      color:#ffd700;
     }
-  .imgnext{
-    float:left;
-    margin-right: 300px;
-
-  }
-
-  .text{
-max-width: 50%;
-margin-left: 30%;
-  }
-
-  .imgnext::after{
-    content:""
-    clear: both;
-    display:table;
-  }
+    p{
+      color:white;
+    }
