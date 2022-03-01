@@ -39,11 +39,13 @@ body{
       margin-left: auto;
   }
   .wrapper{
+    width: 90%;
         display:block;
         background-color: #800040;
     margin-right:auto;
     margin-left: auto;
     text-align: center;
+    margin-bottom: 100px;
   }
     h2{
       font-family: georgia, serif;
