@@ -34,7 +34,7 @@ body{
   }
 
   .header{
-    max-width: 70%;
+    max-width: 600%;
       display: block;
       margin-right: auto;
       margin-left: auto;
@@ -52,6 +52,16 @@ body{
     }
     p{
       color:white;
+    }
+
+    .toph{
+      max-width: 60%;
+      display:block;
+      background-color: #800040;
+  margin-right:auto;
+  margin-left: auto;
+  text-align: center;
+
     }
 
 
